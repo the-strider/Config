@@ -1,0 +1,36 @@
+/*input
+
+*/
+
+#include <algorithm>
+#include <iostream>
+#include <string.h>
+#include <string>
+#include <vector>
+#include <map>
+#include <set>
+
+using namespace std;
+
+using ll = long long;
+using ld = long double;
+
+const int SINF = 1000000009;
+const ll INF =  1000000000000000018;
+
+#define sp          cout << " "
+#define nl          cout << "\n"
+#define all(c)      (c).begin(),(c).end()
+#define prec(n)     cout << fixed << setprecision(n)
+#define PI          3.14159265358979323846264338327951
+#define ifalse      ios_base::sync_with_stdio(false), cin.tie(NULL)
+
+/*********************************START**********************************/
+const int N = 100005;
+
+int main()
+{
+  ifalse;
+  
+  return 0;
+}
